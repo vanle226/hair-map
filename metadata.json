@@ -1,0 +1,5 @@
+{
+  "name": "Scalp Health Visualizer",
+  "description": "An interactive scalp map application for visualizing hair loss zones, symptoms, and potential causes.",
+  "requestFramePermissions": []
+}
